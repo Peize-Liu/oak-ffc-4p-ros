@@ -4,6 +4,7 @@
 #include <thread>
 
 #include "depthai/depthai.hpp"
+#include "depthai/utility/Clock.hpp"
 
 namespace OAKCAM{
 
